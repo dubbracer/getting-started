@@ -1,5 +1,7 @@
 # Docker Getting Started Tutorial
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/02d5ec3c-43b8-43a3-ad91-fb8d36850ce8.svg?orgId=816910851876)](https://app.soluble.cloud/repos/details/github.com/dubbracer/getting-started?orgId=816910851876)  
+
 This tutorial has been written with the intent of helping folks get up and running
 with containers and is designed to work with Docker Desktop. While not going too much 
 into depth, it covers the following topics:
